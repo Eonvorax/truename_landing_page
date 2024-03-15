@@ -251,6 +251,11 @@ button:hover {
     text-align: justify;
 }
 
+.feature_container h3 {
+    color: white;
+    font-size: large;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     #features_container {
