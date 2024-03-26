@@ -172,6 +172,10 @@ button:hover {
     text-align: center;
 }
 
+#about i {
+    color:#94ddff;
+}
+
 /* FEATURES */
 #features {
     padding-top: 100px;
